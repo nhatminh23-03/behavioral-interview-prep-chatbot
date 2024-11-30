@@ -127,7 +127,8 @@ def send_message():
                             "1. Job Role: (e.g., Software Engineer, Data Scientist, Product Manager, Marketing Manager, etc.)\n"
                             "2. Industry: (e.g., Tech, Finance, Healthcare, Retail, etc.)\n"
                             "3. Level of Experience: (Junior, Mid-level, Senior)\n"
-                            "4. Specific Skills/Technologies (optional): (e.g., Python, AWS, Agile methodologies, etc.)\n\n"
+                            "4. Select Mode: (Real-Time Feedback, Mock Interview)\n"
+                            "5. Specific Skills/Technologies (optional): (e.g., Python, AWS, Agile methodologies, etc.)\n\n"
                             "Once I have this information, I'll craft a relevant behavioral question for you. "
                             "Let's get started!\n"
                         )
