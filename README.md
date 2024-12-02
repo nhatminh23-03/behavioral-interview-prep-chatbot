@@ -20,10 +20,10 @@ This project is a chatbot designed to help users prepare for behavioral intervie
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/behavioral-interview-chatbot.git
+   git clone https://github.com/nhatminh23-03/behavioral-interview-prep-chatbot.git
 2. Navigate to the project directory:
    ```bash
-   cd behavioral-interview-chatbot
+   cd behavioral-interview-prep-chatbot
 3. Create a virtual environment (optional but recommended):
    ```bash
    python -m venv venv
@@ -36,7 +36,7 @@ This project is a chatbot designed to help users prepare for behavioral intervie
 6. Create an .env file to store your API key: In the project root, create a file named .env and add the following line:
    ```bash
    GEMINI_API_KEY=your_api_key_here
-7. Open the project in VS Code for the best experience:
+7. Open the project in VS Code (recommend):
    ```bash
    code .
 8. Run the chatbot:
