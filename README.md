@@ -43,9 +43,10 @@ This project is a chatbot designed to help users prepare for behavioral intervie
    ```bash
    python chatbot.py
 9. Access the chatbot in your browser:
-After running the command above, you will see a message in the terminal similar to this:
-Running on http://127.0.0.1:5000/
-Open your browser and navigate to the URL http://127.0.0.1:5000/ (or http://localhost:5000/) to interact with the chatbot.
+   After running the command above, you will see a message in the terminal similar to this:
+   ```bash
+   Running on http://127.0.0.1:5000/
+   Open your browser and navigate to the URL http://127.0.0.1:5000/ (or http://localhost:5000/) to interact with the chatbot.
 
 
 
