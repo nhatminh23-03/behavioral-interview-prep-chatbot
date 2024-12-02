@@ -41,7 +41,7 @@ This project is a chatbot designed to help users prepare for behavioral intervie
    code .
 8. Run the chatbot:
    ```bash
-   python chatbot.py
+   python app.py
 9. Access the chatbot in your browser:
    After running the command above, you will see a message in the terminal similar to this:
    For example:
